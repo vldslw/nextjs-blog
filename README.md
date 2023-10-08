@@ -1,2 +1,1 @@
-# nextjs-blog
-A simple blog app created with Next.js
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
